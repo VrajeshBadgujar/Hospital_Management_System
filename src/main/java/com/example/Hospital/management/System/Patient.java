@@ -4,7 +4,6 @@ public class Patient {
     private int patientId;
     private String name;
     private int age;
-
     private String disease;
     public Patient(int patientId, String name, int age, String disease) {
         this.patientId = patientId;
